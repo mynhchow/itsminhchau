@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+}
+#main {
+    justify-content: space-evenly;
+    display: flex
+}
+#main > .main-pad {
+    height: 250px;
+    width: 500px;
+    border-radius: 20px;
+display: flex;
+justify-content: center;
+align-items: center;
+    box-shadow: 6px 10px 20px 0 gray
+}
+.box {
+    height: 80px;
+    width: 80px;
+    border: 1px solid grey
+ .palette-color {
+     height: 60px;
+     width: 60px;
+     border-radius: 50px; 
+     border: 1px solid grey
+
+ }   
+}

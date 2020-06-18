@@ -1,0 +1,39 @@
+
+#header{
+    height: 100px;
+}
+#nav{
+    height: 3vh;
+}
+#footer{
+    height:6vh;
+}
+#content{
+    display: flex;
+    height: 400px;
+    justify-content: space-around;
+}
+#content div{
+    margin:0px;
+}
+#left{
+    background-color: thistle;
+    width: 200px;
+    word-wrap:break-word
+}
+#main{
+    word-wrap: break-word;
+    background-color: paleturquoise;
+    width: 500px;
+}
+#right{
+    word-wrap: break-word;
+    background-color: mediumpurple;
+    width: 200px;
+}
+div {
+    background-color: mediumpurple;
+    display:flex
+    margin: 10px;
+    text-align: center
+

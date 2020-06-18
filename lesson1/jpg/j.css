@@ -1,0 +1,27 @@
+.card {
+    width: 100px;
+    height: 100px;
+    border: 1px solid gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative
+  }
+  
+  #game {
+    width: 450px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+  }
+  
+  .done {
+    pointer-events: none;
+  }
+  .font-face, back-face {
+width: 100px; 
+height: 100px;
+
+
+  }
+  
